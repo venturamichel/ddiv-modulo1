@@ -29,6 +29,7 @@ Los temas que tocaremos en el mes en curso son los siguientes:
 | `Prototipado inicial con HTML`               | `18 Agosto 2022`  | 5      |
 | `El lenguaje de estilo - CSS`                | `22 Agosto 2022`  | 6      |
 | `Dando formato a nuestro prototipo con CSS`  | `25 Agosto 2022`  | 7      |
+| `Design tokens & layouts en práctica`        | `30 Agosto 2022`  | 8      |
 
 </details>
 
